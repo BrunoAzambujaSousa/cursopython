@@ -1,0 +1,36 @@
+{
+  "liveServer.settings.donotShowInfoMsg": true,
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Dracula Theme",
+  "editor.fontFamily": "JetBrains Mono",
+  "workbench.startupEditor": "none",
+  "editor.fontSize": 15,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.minimap.enabled": true,
+  "diffEditor.wordWrap": "on",
+  "editor.wordWrap": "on",
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  },
+  "workbench.editor.enablePreview": true,
+  "editor.stickyScroll.scrollWithEditor": false,
+  "workbench.tree.enableStickyScroll": false,
+  "editor.stickyScroll.enabled": false,
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "explorer.compactFolders": false,
+  "code-runner.runInTerminal": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.executorMap": {
+    "python": "clear ; python -u",
+  },
+  "code-runner.ignoreSelection": true,
+  "python.defaultInterpreterPath": "python"
+
+
+
+}
