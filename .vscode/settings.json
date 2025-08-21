@@ -4,7 +4,7 @@
   "workbench.colorTheme": "Dracula Theme",
   "editor.fontFamily": "JetBrains Mono",
   "workbench.startupEditor": "none",
-  "editor.fontSize": 15,
+  "editor.fontSize": 12,
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
